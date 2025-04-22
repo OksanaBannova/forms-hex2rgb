@@ -1,4 +1,10 @@
+[GitHub Pages](https://oksanabannova.github.io/forms-hex2rgb/)
+[![Build status](https://ci.appveyor.com/api/projects/status/9g6106lrtpfb54fs?svg=true)](https://ci.appveyor.com/project/OksanaBannova/forms-hex2rgb)
+
+
+
 Конвертер цветов из HEX в RGB
+
 ===
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
